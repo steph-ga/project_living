@@ -81,3 +81,5 @@ sns.boxplot(x=london_merged['longitude'], ax=ax[1])
 plt.show()
 
 # %%
+london_merged.to_csv('data_london.csv', index=False)
+# %%
