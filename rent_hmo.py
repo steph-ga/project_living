@@ -16,7 +16,7 @@ sample_postcode = sample_data.postcode.to_list()
 print("Analysing postcodes: {}".format(sample_postcode))
 
 # API inputs
-api_key = 'HIY0FWQYTH'
+api_key = 'HIDDEN'
 
 # Initialise empty lists
 double_ensuite = []
