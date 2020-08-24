@@ -8,10 +8,6 @@ import requests
 from bs4 import BeautifulSoup
 
 from geopy.geocoders import Nominatim
-import folium
-
-import matplotlib.pyplot as plt
-from matplotlib import cm, colors
 
 print('All libraries are successfully imported!')
 
