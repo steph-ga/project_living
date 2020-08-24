@@ -18,7 +18,7 @@ print("Analysing postcodes: {}".format(sample_postcode))
 print("Assuming 2 bedroom properties, retrieving gross yields...")
 
 # API inputs
-api_key = 'HIY0FWQYTH'
+api_key = 'HIDDEN'
 
 # Initialise an empty list
 gross_yields = []
